@@ -11,7 +11,7 @@ MLOps: With a keen eye for streamlining the machine learning lifecycle, I implem
 🔍 Feel free to explore my GitHub repositories to delve into my projects, experiments, and contributions to the data science community. Let's connect and collaborate on our journey to unlock the full potential of data!
 
 
-- 💞️ I’m looking to collaborate on any open source projects
+- 💞️ I’m looking to collaborate on any open source projects and looking for a freelancing projects.
 - 📫 How to reach me , you can reach me at shubham.kamlaskar1@gmail.com (Gmail) or @who_is_shubham (Instagram)
 
 <!---
